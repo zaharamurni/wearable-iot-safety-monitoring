@@ -33,4 +33,17 @@ Telecommunications Systems Student
 Universitas Pendidikan Indonesia
 
 ## Prototype Device
-![Prototype Device](image.png)
+
+![Prototype Device](System Wearable.png)
+
+## System Architecture
+
+![System Architecture](Diagram System.png)
+
+## Mobile Monitoring Dashboard
+
+![Mobile Monitoring Dashboard](Blynk Dashboard.png)
+
+## Alert Notification
+
+![Alert Notification](Blynk Notification.png)
