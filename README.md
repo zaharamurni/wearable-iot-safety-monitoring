@@ -31,3 +31,6 @@ The system was evaluated through:
 Zahara Murni  
 Telecommunications Systems Student  
 Universitas Pendidikan Indonesia
+
+## Prototype Device
+![Prototype Device](image.png)
