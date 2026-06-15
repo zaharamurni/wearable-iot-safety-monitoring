@@ -32,10 +32,15 @@ Zahara Murni
 Telecommunications Systems Student  
 Universitas Pendidikan Indonesia
 
+
+## Prototype Device
 ![Prototype Device](./System%20Wearable.png)
 
+## System Architecture
 ![System Architecture](./Diagram%20System.png)
 
+## Mobile Monitoring Dashboard
 ![Mobile Monitoring Dashboard](./Blynk%20Dashboard.png)
 
+## Alert Notification
 ![Alert Notification](./Blynk%20Notification.png)
